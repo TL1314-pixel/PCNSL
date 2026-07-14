@@ -1,0 +1,7 @@
+{
+  "bundle": "t001_pcnsl_print_first10",
+  "source_file": "zhl4018 (Zhuoqing Li) Final Report.sas",
+  "source_blob_sha": "dbcdb0393e81c686ef013d73c7693d83b58ca9fa",
+  "source_commit": "d266ff8d585854f6525a7f0c75c0a80e935d8ea7",
+  "notes": "The report's PROC PRINT of the first 10 patients (keep list + os_event/os_mo labels) from final.final_clean. External SAS Studio libname replaced with a 24-row inline PCNSL cohort matching the columns the print reads (Patient ID, Age, Sex, ECOG_PS, EBER, os_event, os_mo), built inline in script.sas so this bundle is self-contained for a script-only POST. PROC options and labels unchanged."
+}
