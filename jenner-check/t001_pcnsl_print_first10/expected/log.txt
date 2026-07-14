@@ -1,0 +1,16 @@
+NOTE: Jenner v1.5.30 (build v1.5.30+unknown.20260714T061458Z.x86_64-unknown-linux-gnu)
+
+NOTE: Option OBS changed to 100.
+NOTE: Library FINAL uses 1 concatenated paths.
+NOTE: DATA final.final_clean
+
+NOTE: Processing inline DATALINES (24 lines)
+
+NOTE: Read 24 rows from DATALINES.
+NOTE: Wrote final.final_clean (24 rows, 7 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: PROC PRINT data=final.final_clean
+
+NOTE: PROC PRINT completed: 10 observations printed, 7 variables

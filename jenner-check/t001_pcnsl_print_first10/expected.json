@@ -1,0 +1,13 @@
+{
+  "_captured_at": "2026-07-14T08:52:59Z",
+  "_captured_run_id": "r_3826c72112f64a5aad75aaf72003678e",
+  "status": "ok",
+  "exit_code": 0,
+  "log_contains": [
+    "NOTE: Wrote final.final_clean (24 rows, 7 columns).",
+    "NOTE: PROC PRINT data=final.final_clean",
+    "NOTE: PROC PRINT completed: 10 observations printed, 7 variables"
+  ],
+  "log_does_not_contain": ["ERROR:", "[JENNER-ERROR"],
+  "diagnostics": {"parse_warnings": [], "runtime_warnings": []}
+}

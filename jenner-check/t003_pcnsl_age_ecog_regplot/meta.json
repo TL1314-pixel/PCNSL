@@ -1,0 +1,7 @@
+{
+  "bundle": "t003_pcnsl_age_ecog_regplot",
+  "source_file": "zhl4018 (Zhuoqing Li) Final Report.sas",
+  "source_blob_sha": "dbcdb0393e81c686ef013d73c7693d83b58ca9fa",
+  "source_commit": "d266ff8d585854f6525a7f0c75c0a80e935d8ea7",
+  "notes": "The report's Age vs ECOG_PS regression plot: PROC SGPLOT REG with CLM band and the author's line/marker attributes. The final1 filter DATA step is inlined into autoexec. External libname replaced with the 24-row inline cohort; SGPLOT REG statement and styling unchanged."
+}
